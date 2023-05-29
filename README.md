@@ -24,6 +24,8 @@ Overall, this project provides a solid foundation for developing a fully functio
 
 
 
+
+
 ## Tech Stack
 
 **Client:** Fluter, Dart
